@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57ba3639f5218824",
+        "id": "90bbe146cd3e58f5",
         "type": "tabs",
         "children": [
           {
-            "id": "497f9b5a0ed450f8",
+            "id": "3ecab36977d5b96a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "497f9b5a0ed450f8",
+  "active": "3ecab36977d5b96a",
   "lastOpenFiles": [
+    "Process data streams.md",
     "Go Channel.md",
     "Untitled",
     "Welcome.md"
